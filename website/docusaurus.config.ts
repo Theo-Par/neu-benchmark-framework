@@ -21,6 +21,8 @@ const config: Config = {
 
   projectName: 'neu-benchmark-framework',
 
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
 
   onBrokenMarkdownLinks: 'warn',
@@ -39,8 +41,9 @@ const config: Config = {
 
           routeBasePath: 'docs',
 
-          editUrl:
-            'https://github.com/Theo-Par/neu-benchmark-framework/tree/main/website/',
+          // Enable this to add the "edit this page" links.
+          //editUrl:
+          //  'https://github.com/Theo-Par/neu-benchmark-framework/tree/main/website/',
         },
 
         blog: false,
@@ -78,8 +81,8 @@ const config: Config = {
         },
 
         {
-          to: '/publication',
-          label: 'Publication',
+          to: '/publications',
+          label: 'Publications',
           position: 'left',
         },
 
@@ -122,7 +125,7 @@ const config: Config = {
           items: [
             {
               label: 'Publication',
-              to: '/publication',
+              to: '/publications',
             },
 
             {
