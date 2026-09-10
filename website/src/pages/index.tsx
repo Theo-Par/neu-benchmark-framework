@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/framework/overview">
-            Learn About The Framework
+            Learn About The Framework 📜
           </Link>
         </div>
       </div>

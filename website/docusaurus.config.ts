@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Neuromorphic Benchmark Framework',
+  title: 'Neuromorphic Benchmarking Framework',
   tagline:
     'An open framework for reproducible benchmarking of neuromorphic computing systems.',
 
@@ -103,7 +103,7 @@ const config: Config = {
 
           items: [
             {
-              label: 'Getting Started',
+              label: 'Introduction',
               to: '/docs/intro',
             },
 
@@ -113,8 +113,8 @@ const config: Config = {
             },
 
             {
-              label: 'Hardware',
-              to: '/docs/hardware',
+              label: 'Neuromorphic Systems',
+              to: '/docs/systems/overview',
             },
           ],
         },

@@ -5,7 +5,7 @@ export default function Benchmarks(): JSX.Element {
   return (
     <Layout
       title="Benchmarks"
-      description="Neuromorphic Benchmark Framework benchmark database"
+      description="Neuromorphic Benchmarking Framework benchmark database"
     >
       <main
         style={{

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Getting Started
+# Introduction
 
-Welcome to the **Neuromorphic Benchmark Framework**.
+Welcome to the **Neuromorphic Benchmarking Framework Webpage**.
 
 This project provides a standardized framework for evaluating and comparing
 neuromorphic computing systems.
@@ -47,4 +47,4 @@ If you are new to the framework, begin with:
 1. [Framework Overview](./framework/overview)
 2. [Benchmark Methodology](./framework/benchmark-flow)
 3. [Metrics](./framework/metrics)
-4. [Hardware Guides](./hardware)
+4. [Neuromorphic Systems](./systems/overview)

@@ -5,7 +5,7 @@ export default function Publications(): JSX.Element {
   return (
     <Layout
       title="Publications"
-      description="Publications describing the Neuromorphic Benchmark Framework"
+      description="Publications describing the Neuromorphic Benchmarking Framework"
     >
       <main
         style={{
@@ -18,7 +18,7 @@ export default function Publications(): JSX.Element {
 
         <p>
           This page provides information about the publications describing the
-          Neuromorphic Benchmark Framework.
+          Neuromorphic Benchmarking Framework.
         </p>
 
         <div

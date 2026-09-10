@@ -11,32 +11,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Introducing New Metrics',
+    Svg: require('@site/static/img/idea-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Introducing Energy-per-TCU and Energy-per-Neuron, which are task-
+        and plaform-platform agnostic energy metrics that enable meaningful
+        efficiency comparisons across diverse neuromorphic systems.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Unifying Neuromorphic Systems',
+    Svg: require('@site/static/img/merge-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Providing a common benchmarking framework that brings together
+        fundamentally different neuromorphic architectures, technologies,
+        and application domains.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Revealing Technological Trends',
+    Svg: require('@site/static/img/trend-svgrepo-com.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Enabling benchmark data to reveal emerging relationships between energy
+        efficiency, system complexity, connectivity, and architectural design.
       </>
     ),
   },

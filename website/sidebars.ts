@@ -44,9 +44,10 @@ const sidebars: SidebarsConfig = {
 
     {
       type: 'category',
-      label: 'Hardware',
+      label: 'Neuromorphic Systems',
       items: [
-        'hardware',
+        'systems/overview',
+        'systems/list',
       ],
     },
   ],

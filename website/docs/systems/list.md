@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Hardware
+# List of Benchmarked Systems
 
-The Neuromorphic Benchmark Framework supports standardized benchmarking
+The Neuromorphic Benchmarking Framework supports standardized benchmarking
 across neuromorphic and conventional computing platforms.
 
 ## Supported platforms

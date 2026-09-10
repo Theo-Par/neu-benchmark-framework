@@ -1,4 +1,4 @@
-# Neuromorphic Benchmark Framework
+# Neuromorphic Benchmarking Framework
 Multi-scale Benchmarking Framework for Neuromorphic Computing Systems
 
 ## Features

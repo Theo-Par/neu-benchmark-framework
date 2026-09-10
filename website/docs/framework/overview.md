@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Framework Overview
 
-The Neuromorphic Benchmark Framework defines a standardized methodology for
+The Neuromorphic Benchmarking Framework defines a standardized methodology for
 evaluating neuromorphic computing systems.
 
 The framework is designed to enable meaningful comparisons across different
